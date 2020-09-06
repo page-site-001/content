@@ -3,5 +3,4 @@ title: 'Контакты'
 weight: '3'
 ---
 
-- dun43v@gmail.com
-- kitsune.solar@gmail.com
+- hello@tails.im

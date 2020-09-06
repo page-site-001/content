@@ -14,7 +14,7 @@ tags:
   - 'discord'
   - 'zoom'
 authors:
-  - 'dun43v'
+  - 'Tails_IM'
 date: '2020-08-02T01:44:46+03:00'
 hash: '1cc2e43f187b75a187eda772bbdcf78ae961c0da'
 uuid: '1cc2e43f-187b-55a1-97ed-a772bbdcf78a'

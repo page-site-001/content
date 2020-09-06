@@ -10,7 +10,7 @@ tags:
   - 'cmf'
   - 'php'
 authors:
-  - 'dun43v'
+  - 'Tails_IM'
 date: '2020-08-03T00:01:49+03:00'
 hash: '5d35edd8f0e35b393fd32ac3b15b8c4f4f156ede'
 uuid: '5d35edd8-f0e3-5b39-afd3-2ac3b15b8c4f'

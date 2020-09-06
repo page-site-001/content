@@ -10,7 +10,7 @@ tags:
   - 'linux'
   - 'fedora'
 authors:
-  - 'dun43v'
+  - 'Tails_IM'
 date: '2020-06-02T09:20:27+03:00'
 hash: '59781965afe7cdd5d798d1c5ba6cdafd6a250c4a'
 uuid: '59781965-afe7-5dd5-9798-d1c5ba6cdafd'
