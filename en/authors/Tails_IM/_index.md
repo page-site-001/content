@@ -18,4 +18,4 @@ author:
       - 'https://gitlab.com/Tails-IM'
 ---
 
-Веб-мастер и системный администратор.
+Webmaster and system administrator.
