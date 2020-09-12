@@ -8,7 +8,7 @@ author:
   user: 'Tails_IM'
   contacts:
     website: 'https://ru-tails.github.io/'
-    email: 'hello@tails.im'
+    email: 'mail@tails.im'
     social:
       - 'https://twitter.com/Tails_IM'
       - 'https://instagram.com/Tails_IM'
