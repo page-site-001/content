@@ -13,7 +13,7 @@ tags:
   - 'drupal'
   - 'php'
 authors:
-  - 'Tails_IM'
+  - 'KitsuneSolar'
 date: '2020-08-03T00:03:45+03:00'
 hash: 'c5540a630a3d9affac32b100467fd8f64a611084'
 uuid: 'c5540a63-0a3d-5aff-bc32-b100467fd8f6'
