@@ -8,7 +8,7 @@ author:
   user: 'Tails_IM'
   contacts:
     website: 'https://ru-tails.github.io/'
-    email: 'mail@tails.im'
+    email: 'mail@kitsune.solar'
     social:
       - 'https://twitter.com/Tails_IM'
       - 'https://instagram.com/Tails_IM'

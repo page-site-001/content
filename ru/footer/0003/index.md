@@ -3,5 +3,5 @@ title: 'Контакты'
 weight: '3'
 ---
 
-- mail@tails.im
+- mail@kitsune.solar
 - [Twitter](https://twitter.com/Tails_IM)
