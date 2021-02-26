@@ -5,7 +5,7 @@
 ## Install / Установка
 
 ```
-git submodule add https://github.com/page-dunaev-dev/content.git content
+git submodule add https://github.com/{org}/content.git content
 ```
 
 ## Update / Обновление
