@@ -1,14 +1,14 @@
-# Information / Информация
+# Information
 
-Информационное наполнение сайта.
+Site content.
 
-## Install / Установка
+## Install
 
 ```
 git submodule add https://github.com/{org}/content.git content
 ```
 
-## Update / Обновление
+## Update
 
 ```
 git submodule update --remote
