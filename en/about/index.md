@@ -8,7 +8,7 @@ Over the course of my career, I have created and closed many different interesti
 
 This page will be updated from time to time when I have a desire to add something.
 
-## Resources
+#### Resources
 
 - [Facebook](https://fb.com/KitsuneSolar)
 - [Instagram](https://instagram.com/KitsuneSolar)

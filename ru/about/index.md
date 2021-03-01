@@ -8,7 +8,7 @@ title: 'О проекте'
 
 Эта страничка время от времени будет обновляться, когда у меня будет желание что-либо добавить.
 
-## Ресурсы
+#### Ресурсы
 
 - [Facebook](https://fb.com/KitsuneSolar)
 - [Instagram](https://instagram.com/KitsuneSolar)
