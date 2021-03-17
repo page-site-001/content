@@ -16,14 +16,4 @@ slug: '0a815547-4f18-52a0-9a99-c463421872ca'
 draft: 1
 ---
 
-{{< spoiler title="qwqw" >}}
-dfdfdf
-
-sddfdfd
-
-dfdgfgfg
-{{< /spoiler >}}
-
-dfdgdgdgdgd
-
-dgdgdgdgdgd
+INIT
