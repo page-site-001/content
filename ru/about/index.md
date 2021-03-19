@@ -18,9 +18,3 @@ title: 'О проекте'
 - [Twitter](https://twitter.com/KitsuneSolar)
 - [Vk](https://vk.com/KitsuneSolar)
 - [YouTube](https://youtube.com/KitsuneSolar)
-
----
-
-## Обратная связь
-
-{{< form-contact token="73e8bec2-2f2a-4062-8f01-c6579cfe7836" >}}
