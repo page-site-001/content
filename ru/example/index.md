@@ -3,7 +3,25 @@ title: 'Example'
 draft: 1
 ---
 
+dgdgdgd dfdgfgd {{< mark "sdsdsd" >}} fgfgffg
+
+---
+
+{{< progress "60" "success" >}}
+
+---
+
+{{< mention "KitsuneSolar" >}}
+
+---
+
+{{< abbr "HTML" "HyperText Markup Language" >}}
+
+---
+
 {{< form-contact subject="" token="73e8bec2-2f2a-4062-8f01-c6579cfe7836" >}}
+
+---
 
 {{< form-donate
 wallet="410012478387285"
