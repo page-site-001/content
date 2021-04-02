@@ -3,6 +3,10 @@ title: 'Example'
 draft: 1
 ---
 
+{{< carousel "https://i.imgur.com/2ji2e1W.jpg" "https://i.imgur.com/9amQBlk.jpg" >}}
+
+---
+
 ## vk-users
 
 {{< vk-users "118195091" "636275489" "37261902" >}}

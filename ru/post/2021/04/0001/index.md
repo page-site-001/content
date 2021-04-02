@@ -3,10 +3,14 @@ title: 'Нападки на Ричарда Столлмана'
 description: ''
 images:
   - 'https://images.unsplash.com/photo-1593510987370-225860c900b9'
+  - 'https://images.unsplash.com/photo-1617301535895-adfb93d46243'
 categories:
-  - ''
+  - 'Life'
 tags:
-  - ''
+  - 'sjw'
+  - 'rms'
+  - 'stallman'
+  - 'fsf'
 authors:
   - 'KitsuneSolar'
 date: '2021-04-02T10:31:52+03:00'
