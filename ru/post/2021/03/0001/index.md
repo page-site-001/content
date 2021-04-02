@@ -5,6 +5,7 @@ images:
   - 'https://images.unsplash.com/photo-1552057426-9f23e61fa7b1'
 categories:
   - 'crypto'
+  - 'linux'
 tags:
   - 'monero'
   - 'systemd'
