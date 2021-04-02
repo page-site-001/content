@@ -3,7 +3,45 @@ title: 'Example'
 draft: 1
 ---
 
-dgdgdgd dfdgfgd {{< mark "sdsdsd" >}} fgfgffg
+## vk-users
+
+{{< vk-users "118195091" "636275489" "37261902" >}}
+
+---
+
+## github-users
+
+{{< github-users "KitsuneSolar" "davidsneighbour" "a8m" "zeke" >}}
+
+---
+
+## github-users-repos
+
+{{< github-users-repos "KitsuneSolar" >}}
+
+---
+
+## github-users-orgs
+
+{{< github-users-orgs "KitsuneSolar" "davidsneighbour" >}}
+
+---
+
+## github-orgs
+
+{{< github-orgs "themefisher" "GitHub" "marketplace-hugo" >}}
+
+---
+
+## github-repos
+
+{{< github-repos "marketplace-flarum/flarum-l10n-core-russian" "marketplace-hugo/hugo-ext-shortcodes" "marketplace-xenforo/xenforo-ext-thread-starter" >}}
+
+---
+
+{{< requisites "https://raw.githubusercontent.com/KitsuneSolar/KitsuneSolar/main/requisites.json" "organization" >}}
+
+{{< requisites "https://raw.githubusercontent.com/KitsuneSolar/KitsuneSolar/main/requisites.json" "bank-account" >}}
 
 ---
 
