@@ -7,7 +7,7 @@ images:
 author:
   user: 'KitsuneSolar'
   contacts:
-    website: 'https://ru-tails.github.io/'
+    website: 'https://kitsune.solar/'
     email: 'mail@kitsune.solar'
     social:
       - 'https://twitter.com/KitsuneSolar'

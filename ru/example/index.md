@@ -3,19 +3,27 @@ title: 'Example'
 draft: 1
 ---
 
+## form-search
+
+{{< form-search "qwee" >}}
+
+---
+
+## carousel
+
 {{< carousel "https://i.imgur.com/2ji2e1W.jpg" "https://i.imgur.com/9amQBlk.jpg" >}}
 
 ---
 
 ## vk-users
 
-{{< vk-users "118195091" "636275489" "37261902" >}}
+{{< vk-users "109195958,197594655,37261902" >}}
 
 ---
 
 ## github-users
 
-{{< github-users "KitsuneSolar" "davidsneighbour" "a8m" "zeke" >}}
+{{< github-users "KitsuneSolar,davidsneighbour,a8m,zeke" >}}
 
 ---
 
@@ -27,19 +35,19 @@ draft: 1
 
 ## github-users-orgs
 
-{{< github-users-orgs "KitsuneSolar" "davidsneighbour" >}}
+{{< github-users-orgs "KitsuneSolar,davidsneighbour" >}}
 
 ---
 
 ## github-orgs
 
-{{< github-orgs "themefisher" "GitHub" "marketplace-hugo" >}}
+{{< github-orgs "themefisher,GitHub,marketplace-hugo" >}}
 
 ---
 
 ## github-repos
 
-{{< github-repos "marketplace-flarum/flarum-l10n-core-russian" "marketplace-hugo/hugo-ext-shortcodes" "marketplace-xenforo/xenforo-ext-thread-starter" >}}
+{{< github-repos "marketplace-flarum/flarum-l10n-core-russian,marketplace-hugo/hugo-ext-shortcodes,marketplace-xenforo/xenforo-ext-thread-starter" >}}
 
 ---
 
