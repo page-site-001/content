@@ -5,7 +5,7 @@ Site content.
 ## Install
 
 ```
-git submodule add https://github.com/{org}/content.git content
+git submodule add https://github.com/site-0001/content.git content
 ```
 
 ## Update

@@ -18,9 +18,3 @@ This page will be updated from time to time when I have a desire to add somethin
 - [Twitter](https://twitter.com/KitsuneSolar)
 - [Vk](https://vk.com/KitsuneSolar)
 - [YouTube](https://youtube.com/KitsuneSolar)
-
----
-
-## Feedback
-
-{{< form-contact token="73e8bec2-2f2a-4062-8f01-c6579cfe7836" >}}
