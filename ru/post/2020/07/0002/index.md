@@ -4,8 +4,7 @@ description: ''
 images:
   - 'https://images.unsplash.com/photo-1521542464131-cb30f7398bc6'
 categories:
-  - 'Cloudflare'
-  - 'MikroTik'
+  - 'Network'
 tags:
   - 'router'
   - 'mikrotik'

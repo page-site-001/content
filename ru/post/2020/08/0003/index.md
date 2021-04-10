@@ -5,8 +5,7 @@ images:
   - 'https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6'
 categories:
   - 'CMF'
-  - 'Drupal'
-  - 'InDev'
+  - 'Dev'
 tags:
   - 'cms'
   - 'cmf'

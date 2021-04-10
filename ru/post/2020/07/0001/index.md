@@ -7,7 +7,6 @@ sources:
 - 'https://xenforo.com/community/resources/5795/'
 categories:
 - 'CMF'
-- 'XenForo'
 tags:
 - 'code'
 - 'php'

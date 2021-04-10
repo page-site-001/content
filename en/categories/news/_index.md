@@ -1,5 +1,5 @@
 ---
-title: 'Блог'
+title: 'News'
 cover:
   icon:
     id: 'fas fa-info'

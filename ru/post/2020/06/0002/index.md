@@ -5,7 +5,6 @@ images:
   - 'https://images.unsplash.com/photo-1587145820098-23e484e69816'
 categories:
   - 'OS'
-  - 'Linux'
 tags:
   - 'linux'
   - 'usb'

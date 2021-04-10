@@ -5,8 +5,7 @@ images:
   - 'https://images.unsplash.com/photo-1429772011165-0c2e054367b8'
 categories:
   - 'CMF'
-  - 'XenForo'
-  - 'InDev'
+  - 'Dev'
 tags:
   - 'cms'
   - 'cmf'

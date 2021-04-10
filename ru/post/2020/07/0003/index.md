@@ -4,8 +4,7 @@ description: ''
 images:
   - 'https://images.unsplash.com/photo-1572435555646-7ad9a149ad91'
 categories:
-  - 'GnuPG'
-  - 'InDev'
+  - 'Crypto'
 tags:
   - 'gpg'
   - 'gnupg'

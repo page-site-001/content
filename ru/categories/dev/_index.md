@@ -1,5 +1,5 @@
 ---
-title: 'В разработке'
+title: 'Разработка'
 cover:
   icon:
     id: 'fas fa-pencil-alt'

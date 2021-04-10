@@ -1,5 +1,5 @@
 ---
-title: 'Blog'
+title: 'Новости'
 cover:
   icon:
     id: 'fas fa-info'

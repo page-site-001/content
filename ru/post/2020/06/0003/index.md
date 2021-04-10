@@ -5,7 +5,6 @@ images:
   - 'https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a'
 categories:
   - 'OS'
-  - 'Linux'
 tags:
   - 'linux'
   - 'fedora'

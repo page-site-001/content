@@ -66,7 +66,7 @@ sequenceDiagram
 
 ## carousel
 
-{{< carousel "https://i.imgur.com/2ji2e1W.jpg" "https://i.imgur.com/9amQBlk.jpg" >}}
+{{< carousel "https://i.imgur.com/2ji2e1W.jpg|https://i.imgur.com/9amQBlk.jpg" >}}
 
 ---
 
