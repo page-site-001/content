@@ -3,6 +3,14 @@ title: 'Example'
 draft: 1
 ---
 
+## uuid-url
+
+sdsd
+
+{{< uuid "16cabd8a-e624-5911-904d-9d9da85e0bce" >}}
+
+---
+
 ## imgur
 
 {{< imgur id="prFvxmE.jpeg" >}}
