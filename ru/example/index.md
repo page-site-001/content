@@ -3,9 +3,27 @@ title: 'Example'
 draft: 1
 ---
 
-## uuid-url
+## url
 
-sdsd
+[example](/example.com)
+
+---
+
+## img
+
+![Alt](https://i.imgur.com/Bnvurtb.jpg)
+
+---
+
+## gist
+
+{{< gist "KitsuneSolar" "38ec420079c1d86443012fa44a22be7f" >}}
+
+{{< gist spf13 7896402 "img.html" >}}
+
+---
+
+## uuid-url
 
 {{< uuid "16cabd8a-e624-5911-904d-9d9da85e0bce" >}}
 
