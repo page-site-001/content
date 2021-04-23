@@ -13,10 +13,13 @@ tags:
   - 'xenforo'
 authors:
   - 'KitsuneSolar'
+
 date: '2020-08-27T17:03:13+03:00'
 hash: '16cabd8ae6243911104d9d9da85e0bce88e64b70'
 uuid: '16cabd8a-e624-5911-904d-9d9da85e0bce'
 slug: '16cabd8a-e624-5911-904d-9d9da85e0bce'
+
+comments: 1
 draft: 0
 ---
 

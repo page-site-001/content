@@ -22,6 +22,7 @@ hash: '5cf78f304907640271ea766e30a06f2f49c56657'
 uuid: '5cf78f30-4907-5402-b1ea-766e30a06f2f'
 slug: '5cf78f30-4907-5402-b1ea-766e30a06f2f'
 
+comments: 0
 draft: 1
 ---
 

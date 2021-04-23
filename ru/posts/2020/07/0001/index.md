@@ -15,10 +15,13 @@ tags:
 - 'cmf'
 authors:
 - 'KitsuneSolar'
+
 date: '2020-07-11T00:19:15+03:00'
 hash: '41205b632b6ea2f9dccba3f84c59b4ecd7d5af24'
 uuid: '41205b63-2b6e-52f9-bccb-a3f84c59b4ec'
 slug: '41205b63-2b6e-52f9-bccb-a3f84c59b4ec'
+
+comments: 1
 draft: 0
 ---
 
