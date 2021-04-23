@@ -6,6 +6,7 @@ images:
   - 'https://images.unsplash.com/photo-1617301535895-adfb93d46243'
 categories:
   - 'Life'
+  - 'News' 
 tags:
   - 'sjw'
   - 'rms'
