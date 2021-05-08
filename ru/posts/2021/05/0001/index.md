@@ -10,7 +10,7 @@ tags:
   - 'github'
   - 'gitlab'
   - 'sync'
-  - 'github actions'
+  - 'actions'
 authors:
   - 'KitsuneSolar'
 licenses:
