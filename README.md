@@ -17,5 +17,5 @@ git submodule update --remote
 ## Uninstall
 
 ```
-git submodule deinit -f content && git rm -r --cached content && rm -r .git/modules/content
+git submodule deinit -f content && git rm -r --cached content && rm -rf .git/modules/content
 ```
