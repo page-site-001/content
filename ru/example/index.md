@@ -3,6 +3,18 @@ title: 'Example'
 draft: 1
 ---
 
+## URL Test
+
+- [Standard](https://example.com)
+- [Inline](/ru/)
+- [DOCX](https://file-examples-com.github.io/uploads/2017/02/file-sample_1MB.docx)
+- [ODT](https://file-examples-com.github.io/uploads/2017/10/file-sample_1MB.odt)
+- [PDF](https://file-examples-com.github.io/uploads/2017/10/file-example_PDF_1MB.pdf)
+- [ODS](https://file-examples-com.github.io/uploads/2017/10/file_example_ODS_5000.ods)
+- [ODP](https://file-examples-com.github.io/uploads/2017/10/file_example_ODP_1MB.odp)
+- [RTF](https://file-examples-com.github.io/uploads/2019/09/file-sample_1MB.rtf)
+- [CSV](https://file-examples-com.github.io/uploads/2017/02/file_example_CSV_5000.csv)
+
 ## alert
 
 {{< alert >}}
@@ -157,7 +169,7 @@ pointHoverBorderColor: 'rgb(54, 162, 235)'
 
 ## imgur
 
-{{< imgur id="prFvxmE.jpeg" >}}
+{{< imgur id="prFvxmE.jpeg" caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ornare turpis purus, ac cursus ex viverra nec." >}}
 
 {{< imgur id="Yhim15t.jpg" >}}
 
