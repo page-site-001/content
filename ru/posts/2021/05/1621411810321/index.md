@@ -4,9 +4,11 @@ description: ''
 images:
   - 'https://images.unsplash.com/photo-1554061523-c90d630a7ac9'
 categories:
-  - ''
+  - 'Dev'
 tags:
-  - ''
+  - 'imagemagick'
+  - 'inkscape'
+  - 'convert'
 authors:
   - 'KitsuneSolar'
 licenses:
