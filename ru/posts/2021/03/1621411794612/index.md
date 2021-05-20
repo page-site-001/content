@@ -26,7 +26,7 @@ draft: 0
 
 Написал небольшой **systemd unit** для майнера [xmrig](https://github.com/search?q=xmrig).
 
-{{< github-repos "KitsuneSolar/xmrig-systemd" >}}
+{{< github-repo "KitsuneSolar/xmrig-systemd" >}}
 
 Запускается от имени `root` в отдельной сессии **screen**, но можно запускать от любого пользователя: в командах запуска и остановки необходимо вместо `root` прописывать имя другого пользователя.
 

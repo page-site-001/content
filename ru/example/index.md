@@ -52,9 +52,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut ultricies nisl
 ## quote
 
 > wewe
-> 
+>
 > werertert
-> 
+>
 > wrwrwrwe
 
 ## chart
@@ -234,37 +234,37 @@ sequenceDiagram
 
 ---
 
-## vk-users
+## vk-user
 
 {{< vk-users "109195958|197594655|37261902" >}}
 
 ---
 
-## github-users
+## github-user
 
 {{< github-users "KitsuneSolar|davidsneighbour|a8m|zeke" >}}
 
 ---
 
-## github-users-repos
+## github-user-repo
 
 {{< github-users-repos "KitsuneSolar" >}}
 
 ---
 
-## github-users-orgs
+## github-user-org
 
 {{< github-users-orgs "KitsuneSolar|davidsneighbour" >}}
 
 ---
 
-## github-orgs
+## github-org
 
 {{< github-orgs "themefisher|GitHub|marketplace-hugo" >}}
 
 ---
 
-## github-repos
+## github-repo
 
 {{< github-repos "marketplace-flarum/flarum-l10n-core-russian|marketplace-hugo/hugo-ext-shortcodes|marketplace-xenforo/xenforo-ext-thread-starter" >}}
 
