@@ -236,37 +236,37 @@ sequenceDiagram
 
 ## vk-user
 
-{{< vk-users "109195958|197594655|37261902" >}}
+{{< vk-user "109195958|197594655|37261902" >}}
 
 ---
 
 ## github-user
 
-{{< github-users "KitsuneSolar|davidsneighbour|a8m|zeke" >}}
+{{< github-user "KitsuneSolar|davidsneighbour|a8m|zeke" >}}
 
 ---
 
 ## github-user-repo
 
-{{< github-users-repos "KitsuneSolar" >}}
+{{< github-user-repo "KitsuneSolar" >}}
 
 ---
 
 ## github-user-org
 
-{{< github-users-orgs "KitsuneSolar|davidsneighbour" >}}
+{{< github-user-org "KitsuneSolar|davidsneighbour" >}}
 
 ---
 
 ## github-org
 
-{{< github-orgs "themefisher|GitHub|marketplace-hugo" >}}
+{{< github-org "themefisher|GitHub|marketplace-hugo" >}}
 
 ---
 
 ## github-repo
 
-{{< github-repos "marketplace-flarum/flarum-l10n-core-russian|marketplace-hugo/hugo-ext-shortcodes|marketplace-xenforo/xenforo-ext-thread-starter" >}}
+{{< github-repo "marketplace-flarum/flarum-l10n-core-russian|marketplace-hugo/hugo-ext-shortcodes|marketplace-xenforo/xenforo-ext-thread-starter" >}}
 
 ---
 

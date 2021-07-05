@@ -5,6 +5,7 @@ images:
   - 'https://images.unsplash.com/photo-1554061523-c90d630a7ac9'
 categories:
   - 'Dev'
+  - 'Opinion'
 tags:
   - 'imagemagick'
   - 'inkscape'

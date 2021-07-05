@@ -5,6 +5,7 @@ images:
   - 'https://images.unsplash.com/photo-1531030874896-fdef6826f2f7'
 categories:
   - 'Dev'
+  - 'News'
 tags:
   - 'git'
   - 'github'
