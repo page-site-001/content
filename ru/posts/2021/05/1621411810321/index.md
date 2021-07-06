@@ -46,4 +46,4 @@ user@localhost ~ % bash icon.sh ico
 
 ## Скрипт
 
-{{< github-repo "KitsuneSolar/icon-sh" >}}
+{{< github-repo "pkgstore/linux-bash-favicon" >}}
